@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+h1 {
+    margin: 0;
+}
+
+.top {
+    background-color: #d4e2d4;
+    width: 200px;
+    height: 200px;
+    border: 10px black;
+    padding: 20px;
+}
+.mid {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    border: 20px;
+}
+.bot {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border: 10px black;
+}
